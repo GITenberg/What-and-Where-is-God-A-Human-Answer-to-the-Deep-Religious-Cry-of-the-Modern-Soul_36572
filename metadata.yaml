@@ -1,0 +1,29 @@
+_repo: What-and-Where-is-God-A-Human-Answer-to-the-Deep-Religious-Cry-of-the-Modern-Soul_36572
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Swain, Richard La Rue
+    alias: Swain, Richard la Rue
+    birthdate: 1860
+    gutenberg_agent_id: '38355'
+    url: http://www.gutenberg.org/2009/agents/38355
+description: ''
+gutenberg_issued: '2011-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36572'
+  lccn: '20020987'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christianity'
+- !lcsh 'God (Christianity)'
+- !lcc 'BR'
+title: What and Where is God? A Human Answer to the Deep Religious Cry of the Modern
+  Soul
+url: http://www.gutenberg.org/ebooks/36572
